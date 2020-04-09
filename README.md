@@ -3,8 +3,8 @@
 ## Project purpose 
 This project is intended first and foremost as a personal
 project of mine to help learn the Python programming language and to
-achieve a better overall understaning of programming in general by
-finding real solutions to real problems. 
+achieve a better understaning of programming in general by finding 
+real solutions to real problems. 
 
 This program will assist in the analysis of tidal data to find the tidal 
 period (high, medium, or low tide) associated with sample collection times 
