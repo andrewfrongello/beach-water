@@ -47,7 +47,7 @@ https://tidesandcurrents.noaa.gov/stationhome.html?id=8723026
 Information about the program can be found on the FDOH Agency website
 http://www.floridahealth.gov/environmental-health/beach-water-quality/index.html
 
-Broward County sample locations and results are publically accessible and can be found by using the previous link and 
+Broward County sample locations and results are publicly accessible and can be found by using the previous link and 
 navigating to the Broward webpage using the provided list of counties, although a direct link is also provided here
 http://www.floridahealth.gov/environmental-health/beach-water-quality/county-detail.html?County=Broward&Zip=33315-2643
 
