@@ -1,17 +1,16 @@
 # About the beach water monitoring project
 
 ## Project purpose 
-This project is intended first and foremost as a personal project to help learn Python 
-and to better understand programming applications by finding real solutions to real problems.
+This project is intended as a personal project to help learn Python and to better understand programming applications.
 
-This script assists in the analysis of tidal data to find the tidal period (high, medium, or low tide) 
+The program assists with the analysis of tidal data to find the tidal period (high, medium, or low tide) 
 associated with sample collection times for thirteen (13) monitoring locations throughout Broward County. 
-The project is correlated to Healthy Beaches monitoring duties for a previous position with the FDOH in Broward 
+The project is correlated to Healthy Beaches monitoring duties for a previous position I had with the FDOH in Broward 
 and is neither endorsed nor supported by the agency itself.
 
 ## How it works
-The script calls the NOAA Web Service API and returns tide prediction data for eight (8) tidal stations along 
-the coast. For each of thirteen (13) sample locations, data from the closest NOAA station is used to find
+The program calls the NOAA Web Service API and returns tide prediction data for eight (8) tidal monitoring stations along 
+the coast. For each of the thirteen (13) sample locations, data from the closest NOAA station is used to find
 the tidal period timeframes for the location and the sample is determined to have been collected during
 low, medium, or high tide by comparing the collection time to the calculated timeframes.
 
